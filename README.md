@@ -15,6 +15,11 @@ Solution architect with 18 years in enterprise technology, and for the last few 
 - Cloud and platform engineering
 - Service management heritage
 
+### Selected write-ups
+- [mcp-second-brain](https://github.com/octavteodorescu/mcp-second-brain) - a personal MCP server over my own knowledge base
+- [daily-intel-brief](https://github.com/octavteodorescu/daily-intel-brief) - an autonomous daily AI intelligence-brief agent
+- [cv](https://github.com/octavteodorescu/cv) - the source for https://cv.oteelab.org (single `cv.yaml` renders every surface)
+
 ### Find me
 [Website](https://cv.oteelab.org) &middot; [LinkedIn](https://www.linkedin.com/in/octavian-teodorescu-9a77338) &middot; [GitHub](https://github.com/octavteodorescu)
 
