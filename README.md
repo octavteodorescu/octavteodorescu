@@ -1,19 +1,19 @@
 ## Hi, I'm Octavian
 
-**Solution Architect and AI Agent Builder** &nbsp;|&nbsp; Bucharest &nbsp;|&nbsp; Open to remote roles (EU/UK timezone or global)
+**Solution Architect and AI Agent Builder** &nbsp;|&nbsp; Bucharest
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![MCP](https://img.shields.io/badge/MCP-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![RAG](https://img.shields.io/badge/RAG-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![LLM Apps](https://img.shields.io/badge/LLM_Apps-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![Fine-tuning (LoRA/QLoRA)](https://img.shields.io/badge/Fine--tuning_(LoRA/QLoRA)-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![Python](https://img.shields.io/badge/Python-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![Solution Architecture](https://img.shields.io/badge/Solution_Architecture-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429) ![Azure/AWS/GCP](https://img.shields.io/badge/Azure/AWS/GCP-0c0e11?style=flat-square&labelColor=0c0e11&color=f0b429)
 
-Solution architect with 18 years in enterprise technology, and for the last few years a hands-on builder of AI agents. I shape large transformation deals (usually $25-50M) for banking, insurance, energy, manufacturing and life-sciences clients, owning the design from operating model through to architecture and commercials. Alongside that I design, build and run agentic AI systems myself: multi-agent orchestration, MCP tool servers, retrieval pipelines, and a self-hosted agent runtime that runs in production on my own infrastructure. I also fine-tune small language models on a single local GPU, to understand the stack from the weights up rather than only from the slide deck. Most architects at my level stopped touching the keyboard years ago. I didn't.
+Solution architect with 18+ years in enterprise technology, the last few of them spent hands-on building AI. I shape large transformation deals (usually $25-50M) for banking, insurance, energy, manufacturing and life-sciences clients, owning the design from operating model through to architecture and commercials. Alongside that I design, build and run agentic AI systems, both at work and on my own: multi-agent orchestration, MCP tool servers, hybrid search and retrieval, and unattended overnight agent runs. The infrastructure underneath runs on my own hardware at home. I'm also learning the model-training side by doing it, starting with a small fine-tuning run on my own GPU, to understand the stack from the weights up rather than only from the slide deck. Most architects at my level stopped touching the keyboard years ago. I didn't.
 
-**Currently building:** A self-hosted multi-agent stack and fine-tuning small language models on a single GPU.
+**Currently building:** My next fine-tuning project (a plain-language rewriter, as a learning exercise), unattended overnight agent runs, and measuring which model each task actually needs.
 
 ### What I focus on
 - Agentic AI engineering
-- Applied ML, hands-on and growing
+- Applied ML, a hands-on learning track I started in 2026
 - Enterprise solution architecture
 - Cloud and platform engineering
-- Service management heritage
+- Service-management heritage
 
 ### Selected write-ups
 - [mcp-second-brain](https://github.com/octavteodorescu/mcp-second-brain) - a personal MCP server over my own knowledge base
